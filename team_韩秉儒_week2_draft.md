@@ -49,7 +49,7 @@ https://github.com/2025BIUHcourse/week2-ros-HHH123860/blob/main/week2zhaopian2/1
 1. 在 VSCode 中打开`sum.cpp`文件，安装 C/C++ 插件，点击“运行和调试”按钮
 2. 选择“C++(GDB/LLDB)”调试环境，自动生成`launch.json`调试配置文件
 3. 在代码的求和逻辑处设置断点，启动调试，查看变量监控面板的数值变化
-![](./14.jpg)
+https://github.com/2025BIUHcourse/week2-ros-HHH123860/blob/main/week2zhaopian2/14.jpg?raw=true
 ![](./15.jpg)
 ### 2.3 ROS1 安装验证
 1. 打开终端，执行`roscore`启动 ROS 核心节点，等待节点初始化完成
@@ -124,6 +124,7 @@ https://github.com/2025BIUHcourse/week2-ros-HHH123860/blob/main/week2zhaopian2/1
 
 
 实验中遇到的编译依赖缺失、文件权限不足、话题路径错误、调试配置异常等问题，让我养成了先排查配置文件、再验证指令路径、最后检查权限依赖的问题解决思路，大幅提升了嵌入式开发环境下的问题定位与修复能力，为后续复杂 ROS 项目开发积累了宝贵的实操经验。
+
 
 
 
