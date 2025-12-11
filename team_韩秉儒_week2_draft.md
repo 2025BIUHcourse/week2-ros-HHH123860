@@ -109,7 +109,7 @@ https://github.com/2025BIUHcourse/week2-ros-HHH123860/blob/main/week2zhaopian4/3
 3. 持续监控 10 秒后，保存 rqt_graph 和 rqt_plot 的界面
 https://github.com/2025BIUHcourse/week2-ros-HHH123860/blob/main/week2zhaopian4/32.jpg?raw=true
 https://github.com/2025BIUHcourse/week2-ros-HHH123860/blob/main/week2zhaopian4/33.jpg?raw=true
-![](./34.jpg)
+https://github.com/2025BIUHcourse/week2-ros-HHH123860/blob/main/week2zhaopian4/34.jpg?raw=true
 ## 3. 遇到的问题与解决方法
 1. **问题**：catkin_make 编译功能包时，提示“找不到 roscpp 依赖”
     **解决方法**：打开功能包的 package.xml 文件，补充`<build_depend>roscpp</build_depend>`、`<exec_depend>roscpp</exec_depend>`依赖项；打开 CMakeLists.txt 文件，添加`find_package(catkin REQUIRED COMPONENTS roscpp rospy std_msgs)`配置，保存后重新执行 catkin_make
@@ -124,6 +124,7 @@ https://github.com/2025BIUHcourse/week2-ros-HHH123860/blob/main/week2zhaopian4/3
 
 
 实验中遇到的编译依赖缺失、文件权限不足、话题路径错误、调试配置异常等问题，让我养成了先排查配置文件、再验证指令路径、最后检查权限依赖的问题解决思路，大幅提升了嵌入式开发环境下的问题定位与修复能力，为后续复杂 ROS 项目开发积累了宝贵的实操经验。
+
 
 
 
