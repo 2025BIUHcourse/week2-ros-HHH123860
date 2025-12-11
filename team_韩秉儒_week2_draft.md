@@ -102,7 +102,7 @@ https://github.com/2025BIUHcourse/week2-ros-HHH123860/blob/main/week2zhaopian3/2
 3. 执行`rostopic pub -r 10 /turtle1/turtle1/cmd_vel [速度参数]`控制第一只乌龟，执行`rostopic pub -r 10 /turtle2/turtle1/cmd_vel [速度参数]`控制第二只乌龟
 https://github.com/2025BIUHcourse/week2-ros-HHH123860/blob/main/week2zhaopian3/29.jpg?raw=true
 https://github.com/2025BIUHcourse/week2-ros-HHH123860/blob/main/week2zhaopian3/30.jpg?raw=true
-![](./31.jpg)
+https://github.com/2025BIUHcourse/week2-ros-HHH123860/blob/main/week2zhaopian4/31.jpg?raw=true
 #### 2.6.3 rqt 工具分析
 1. 执行`rqt_graph`打开节点通信图工具，调整视图大小，查看节点与话题的关联关系
 2. 执行`rqt_plot /turtle1/turtle1/cmd_vel/linear/x /turtle2/turtle1/cmd_vel/linear/x`打开速度绘图工具，观察两只乌龟的线速度曲线
@@ -124,6 +124,7 @@ https://github.com/2025BIUHcourse/week2-ros-HHH123860/blob/main/week2zhaopian3/3
 
 
 实验中遇到的编译依赖缺失、文件权限不足、话题路径错误、调试配置异常等问题，让我养成了先排查配置文件、再验证指令路径、最后检查权限依赖的问题解决思路，大幅提升了嵌入式开发环境下的问题定位与修复能力，为后续复杂 ROS 项目开发积累了宝贵的实操经验。
+
 
 
 
