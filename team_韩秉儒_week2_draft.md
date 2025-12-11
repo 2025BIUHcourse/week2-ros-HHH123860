@@ -28,7 +28,7 @@ https://github.com/2025BIUHcourse/week2-ros-HHH123860/blob/main/week2zhaopian1/5
 3. 执行`tree --version`验证软件安装成功
 https://github.com/2025BIUHcourse/week2-ros-HHH123860/blob/main/week2zhaopian1/6.jpg?raw=true
 ![](./7.jpg)
-![](./8.jpg)
+https://github.com/2025BIUHcourse/week2-ros-HHH123860/blob/main/week2zhaopian1/8.jpg?raw=true
 #### 2.1.3 进程管理
 1. 打开火狐浏览器，在终端执行`ps -aux`查看系统所有进程，执行`ps -aux | grep firefox`过滤火狐进程
 2. 记录火狐进程的PID，执行`sudo kill -9 [PID]`终止进程，再次执行`ps -aux | grep firefox`验证进程已终止
@@ -124,6 +124,7 @@ https://github.com/2025BIUHcourse/week2-ros-HHH123860/blob/main/week2zhaopian1/6
 
 
 实验中遇到的编译依赖缺失、文件权限不足、话题路径错误、调试配置异常等问题，让我养成了先排查配置文件、再验证指令路径、最后检查权限依赖的问题解决思路，大幅提升了嵌入式开发环境下的问题定位与修复能力，为后续复杂 ROS 项目开发积累了宝贵的实操经验。
+
 
 
 
