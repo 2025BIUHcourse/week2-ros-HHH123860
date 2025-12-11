@@ -38,7 +38,7 @@ https://github.com/2025BIUHcourse/week2-ros-HHH123860/blob/main/week2zhaopian1/1
 #### 2.2.1 Python HelloWorld
 1. 打开 VSCode，新建文件夹`week2_py_cpp`，在文件夹内新建`hello.py`文件
 2. 写入 HelloWorld 代码，保存文件后返回终端，执行`cd week2_py_cpp`进入目录，执行`python3 hello.py`运行程序
-![](./11.jpg)
+https://github.com/2025BIUHcourse/week2-ros-HHH123860/blob/main/week2zhaopian2/11.jpg?raw=true
 ![](./12.jpg)
 #### 2.2.2 C++ 数字求和程序
 1. 在`week2_py_cpp`文件夹内新建`sum.cpp`文件，写入数字求和代码
@@ -124,6 +124,7 @@ https://github.com/2025BIUHcourse/week2-ros-HHH123860/blob/main/week2zhaopian1/1
 
 
 实验中遇到的编译依赖缺失、文件权限不足、话题路径错误、调试配置异常等问题，让我养成了先排查配置文件、再验证指令路径、最后检查权限依赖的问题解决思路，大幅提升了嵌入式开发环境下的问题定位与修复能力，为后续复杂 ROS 项目开发积累了宝贵的实操经验。
+
 
 
 
