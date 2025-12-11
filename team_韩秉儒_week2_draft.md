@@ -20,7 +20,7 @@
 https://github.com/2025BIUHcourse/week2-ros-HHH123860/blob/main/week2zhaopian1/1.jpg?raw=true
 https://github.com/2025BIUHcourse/week2-ros-HHH123860/blob/main/week2zhaopian1/2.jpg?raw=true
 https://github.com/2025BIUHcourse/week2-ros-HHH123860/blob/main/week2zhaopian1/3.jpg?raw=true
-![](./4.jpg)
+https://github.com/2025BIUHcourse/week2-ros-HHH123860/blob/main/week2zhaopian1/4.jpg?raw=true
 ![](./5.jpg)
 #### 2.1.2 apt 软件安装
 1. 执行`sudo apt update`更新软件源列表，输入管理员密码完成授权
@@ -124,5 +124,6 @@ https://github.com/2025BIUHcourse/week2-ros-HHH123860/blob/main/week2zhaopian1/3
 
 
 实验中遇到的编译依赖缺失、文件权限不足、话题路径错误、调试配置异常等问题，让我养成了先排查配置文件、再验证指令路径、最后检查权限依赖的问题解决思路，大幅提升了嵌入式开发环境下的问题定位与修复能力，为后续复杂 ROS 项目开发积累了宝贵的实操经验。
+
 
 
