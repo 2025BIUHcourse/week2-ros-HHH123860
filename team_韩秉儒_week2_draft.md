@@ -90,7 +90,7 @@ https://github.com/2025BIUHcourse/week2-ros-HHH123860/blob/main/week2zhaopian3/2
 3. 执行`rosrun beginner_tutorials [文件名]`启动控制节点，观察小乌龟的运动轨迹
 4. 执行`rostopic echo /turtle1/cmd_vel`查看节点发布的速度数据
 https://github.com/2025BIUHcourse/week2-ros-HHH123860/blob/main/week2zhaopian3/26.jpg?raw=true
-![](./27.jpg)
+https://github.com/2025BIUHcourse/week2-ros-HHH123860/blob/main/week2zhaopian3/27.jpg?raw=true
 ### 2.6 多乌龟 launch + rqt 工具分析
 #### 2.6.1 编写 launch 文件
 1. 在 beginner_tutorials 功能包中新建`launch`目录，在目录内新建`multi_turtle.launch`文件
@@ -124,6 +124,7 @@ https://github.com/2025BIUHcourse/week2-ros-HHH123860/blob/main/week2zhaopian3/2
 
 
 实验中遇到的编译依赖缺失、文件权限不足、话题路径错误、调试配置异常等问题，让我养成了先排查配置文件、再验证指令路径、最后检查权限依赖的问题解决思路，大幅提升了嵌入式开发环境下的问题定位与修复能力，为后续复杂 ROS 项目开发积累了宝贵的实操经验。
+
 
 
 
