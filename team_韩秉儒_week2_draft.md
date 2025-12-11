@@ -56,7 +56,7 @@ https://github.com/2025BIUHcourse/week2-ros-HHH123860/blob/main/week2zhaopian2/1
 2. 新开一个终端，执行`rosnode list`查看当前运行的 ROS 节点，执行`rosnode info /rosout`查看核心节点信息
 3. 执行`echo $ROS_DISTRO`查看 ROS 版本，执行`echo $ROS_PACKAGE_PATH`查看功能包路径
 https://github.com/2025BIUHcourse/week2-ros-HHH123860/blob/main/week2zhaopian2/16.jpg?raw=true
-![](./17.jpg)
+https://github.com/2025BIUHcourse/week2-ros-HHH123860/blob/main/week2zhaopian2/17.jpg?raw=true
 ![](./18.jpg)
 ![](./19.jpg)
 ### 2.4 CATKIN 工作空间与功能包
@@ -124,6 +124,7 @@ https://github.com/2025BIUHcourse/week2-ros-HHH123860/blob/main/week2zhaopian2/1
 
 
 实验中遇到的编译依赖缺失、文件权限不足、话题路径错误、调试配置异常等问题，让我养成了先排查配置文件、再验证指令路径、最后检查权限依赖的问题解决思路，大幅提升了嵌入式开发环境下的问题定位与修复能力，为后续复杂 ROS 项目开发积累了宝贵的实操经验。
+
 
 
 
