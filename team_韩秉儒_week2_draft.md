@@ -27,7 +27,7 @@ https://github.com/2025BIUHcourse/week2-ros-HHH123860/blob/main/week2zhaopian1/5
 2. 执行`sudo apt install tree`安装树形目录查看工具，执行`sudo apt autoremove`清理无用依赖
 3. 执行`tree --version`验证软件安装成功
 https://github.com/2025BIUHcourse/week2-ros-HHH123860/blob/main/week2zhaopian1/6.jpg?raw=true
-![](./7.jpg)
+https://github.com/2025BIUHcourse/week2-ros-HHH123860/blob/main/week2zhaopian1/7.jpg?raw=true
 https://github.com/2025BIUHcourse/week2-ros-HHH123860/blob/main/week2zhaopian1/8.jpg?raw=true
 #### 2.1.3 进程管理
 1. 打开火狐浏览器，在终端执行`ps -aux`查看系统所有进程，执行`ps -aux | grep firefox`过滤火狐进程
@@ -124,6 +124,7 @@ https://github.com/2025BIUHcourse/week2-ros-HHH123860/blob/main/week2zhaopian1/8
 
 
 实验中遇到的编译依赖缺失、文件权限不足、话题路径错误、调试配置异常等问题，让我养成了先排查配置文件、再验证指令路径、最后检查权限依赖的问题解决思路，大幅提升了嵌入式开发环境下的问题定位与修复能力，为后续复杂 ROS 项目开发积累了宝贵的实操经验。
+
 
 
 
