@@ -83,7 +83,7 @@ https://github.com/2025BIUHcourse/week2-ros-HHH123860/blob/main/week2zhaopian3/2
 1. 执行`rostopic list`查看当前话题列表，执行`rostopic info /turtle1/cmd_vel`查看速度话题信息
 2. 执行`rostopic pub -r 10 /turtle1/cmd_vel geometry_msgs/Twist "{linear: {x: 2.0, y: 0.0, z: 0.0}, angular: {x: 0.0, y: 0.0, z: 1.0}}"`发布持续速度指令
 3. 等待乌龟运动 5 秒后，按下 Ctrl+C 终止指令发布
-![](./25.jpg)
+https://github.com/2025BIUHcourse/week2-ros-HHH123860/blob/main/week2zhaopian3/25.jpg?raw=true
 #### 2.5.3 程序控制小乌龟画圆
 1. 在 beginner_tutorials 功能包的 scripts 目录下新建乌龟画圆控制文件
 2. 编写控制代码，保存后执行`chmod +x [文件名]`赋予可执行权限
@@ -124,6 +124,7 @@ https://github.com/2025BIUHcourse/week2-ros-HHH123860/blob/main/week2zhaopian3/2
 
 
 实验中遇到的编译依赖缺失、文件权限不足、话题路径错误、调试配置异常等问题，让我养成了先排查配置文件、再验证指令路径、最后检查权限依赖的问题解决思路，大幅提升了嵌入式开发环境下的问题定位与修复能力，为后续复杂 ROS 项目开发积累了宝贵的实操经验。
+
 
 
 
