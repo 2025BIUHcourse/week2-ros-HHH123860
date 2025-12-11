@@ -70,7 +70,7 @@ https://github.com/2025BIUHcourse/week2-ros-HHH123860/blob/main/week2zhaopian2/2
 2. 执行`ls beginner_tutorials/`查看功能包目录结构，确认 package.xml 和 CMakeLists.txt 文件存在
 3. 在功能包中新建对应目录，编写 Python 或 C++ 版本的 HelloWorld 节点文件，赋予文件可执行权限
 4. 返回工作空间执行`catkin_make`编译，执行`rosrun beginner_tutorials [节点文件名]`运行节点
-![](./21.jpg)
+https://github.com/2025BIUHcourse/week2-ros-HHH123860/blob/main/week2zhaopian3/21.jpg?raw=true
 ![](./22.jpg)
 ### 2.5 Turtlesim 小乌龟基础
 #### 2.5.1 键盘控制小乌龟
@@ -124,6 +124,7 @@ https://github.com/2025BIUHcourse/week2-ros-HHH123860/blob/main/week2zhaopian2/2
 
 
 实验中遇到的编译依赖缺失、文件权限不足、话题路径错误、调试配置异常等问题，让我养成了先排查配置文件、再验证指令路径、最后检查权限依赖的问题解决思路，大幅提升了嵌入式开发环境下的问题定位与修复能力，为后续复杂 ROS 项目开发积累了宝贵的实操经验。
+
 
 
 
