@@ -77,7 +77,7 @@ https://github.com/2025BIUHcourse/week2-ros-HHH123860/blob/main/week2zhaopian3/2
 1. 执行`rosrun turtlesim turtlesim_node`启动小乌龟仿真器，等待仿真窗口弹出
 2. 新开终端执行`rosrun turtlesim turtle_teleop_key`，按照终端提示按下方向键控制乌龟前进、后退、转向
 3. 控制乌龟移动一段距离后，停止操作观察轨迹
-![](./23.jpg)
+https://github.com/2025BIUHcourse/week2-ros-HHH123860/blob/main/week2zhaopian3/23.jpg?raw=true
 ![](./24.jpg)
 #### 2.5.2 rostopic 指令控制
 1. 执行`rostopic list`查看当前话题列表，执行`rostopic info /turtle1/cmd_vel`查看速度话题信息
@@ -124,6 +124,7 @@ https://github.com/2025BIUHcourse/week2-ros-HHH123860/blob/main/week2zhaopian3/2
 
 
 实验中遇到的编译依赖缺失、文件权限不足、话题路径错误、调试配置异常等问题，让我养成了先排查配置文件、再验证指令路径、最后检查权限依赖的问题解决思路，大幅提升了嵌入式开发环境下的问题定位与修复能力，为后续复杂 ROS 项目开发积累了宝贵的实操经验。
+
 
 
 
